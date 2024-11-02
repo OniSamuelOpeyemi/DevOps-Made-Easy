@@ -7,6 +7,7 @@ Welcome to the DevOps Tutorial project! This tutorial is designed to introduce a
 This tutorial is divided into multiple modules covering key DevOps topics, each aimed at building a practical understanding of how to integrate DevOps into the software development lifecycle. Here's a summary of the areas we’ll cover:
 
 - **Introduction to DevOps:** Understand the philosophy, benefits, and business value of DevOps.
+- **Git and Github:** Github ultimate. Master Git and Github from Beginner to Expert. 
 - **Continuous Integration & Continuous Delivery (CI/CD):** Learn how to automate code integration and deployment using CI/CD pipelines with popular tools like Jenkins, GitHub Actions, or GitLab CI.
 - **Infrastructure as Code (IaC):** Explore how to manage infrastructure with code, covering tools like Terraform and Ansible to ensure consistent and reproducible environments.
 - **Containerization & Orchestration:** Dive into Docker for containerization and Kubernetes for orchestrating complex applications, making deployment scalable and manageable.
