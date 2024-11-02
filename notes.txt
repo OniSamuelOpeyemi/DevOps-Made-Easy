@@ -1,0 +1,8 @@
+GIT AND GITHUB
+Git is a decentralized or distributed version control system used for tracking and managing git repositories.
+
+git was created by Linus Torvalds
+
+Git's de-facto means that it enjoys wide adoption
+
+Git repository: It is considered as the collections of version controlled files being managed and their history.
