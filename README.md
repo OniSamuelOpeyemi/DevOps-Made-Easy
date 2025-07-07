@@ -1,6 +1,6 @@
-# DevOps Tutorial
+# DevOps-Made-Easy
 
-Welcome to the DevOps Tutorial project! This tutorial is designed to introduce and guide users through the essential concepts, practices, and tools that define modern DevOps. Whether you're a beginner or looking to deepen your understanding, this tutorial provides structured, hands-on learning to help you build skills that support effective software delivery and team collaboration.
+Welcome to the DevOps-made-easy project! This tutorial is designed to introduce and guide users through the essential concepts, practices, and tools that define modern DevOps. Whether you're a beginner or looking to deepen your understanding, this tutorial provides structured, hands-on learning to help you build skills that support effective software delivery and team collaboration.
 
 ## Project Overview
 
@@ -23,4 +23,4 @@ To begin, clone this repository and follow the instructions in each module to se
 Happy learning, and welcome to the world of DevOps!
 
 *to connect* :
-**Mobile number**08143276850
+[linkedIn](www.linkedin.com/in/oni-samuel-6b1820267)
