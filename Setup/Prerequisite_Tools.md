@@ -14,7 +14,7 @@ Lightweight and powerful code editor with DevOps-friendly extensions.
 
 - 🔗 [Download VS Code](https://code.visualstudio.com/)
 
-- ![VS code](VS code.png)
+- ![VS code](Vs_code.png)
 
 ### 3. 📦 VirtualBox + Ubuntu Image
 For running virtual environments and simulating Linux-based DevOps tools.
@@ -26,4 +26,25 @@ For running virtual environments and simulating Linux-based DevOps tools.
 
 > ✅ Tip: You can also use WSL (Windows Subsystem for Linux) as an alternative to VirtualBox on Windows.
 
-Once these are set up, you're ready to begin your DevOps hands-on journey!
+
+### 4. 🐙 GitHub Account  
+You’ll need a GitHub account for version control, collaboration, and storing your code in repositories.
+
+![GitHub Logo](Github.png)  
+
+🔗 [Create a GitHub Account](https://github.com/signup)
+
+---
+
+### 5. ☁️ AWS Account  
+Cloud computing platform we'll use for deploying infrastructure and services in real-world DevOps projects.
+
+🔗 [Create an AWS Account](https://portal.aws.amazon.com/billing/signup)
+
+
+![AWS Logo](AWS.png)  
+> 🔒 Make sure to enable 2FA and set up billing alerts to avoid unwanted charges.
+
+---
+
+Once these tools and accounts are ready, you’re all set to start your hands-on DevOps journey! 
