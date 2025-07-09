@@ -14,7 +14,7 @@ Lightweight and powerful code editor with DevOps-friendly extensions.
 
 - 🔗 [Download VS Code](https://code.visualstudio.com/)
 
-- ![VS code](Vs_code.png)
+- ![VS code](vsc.png)
 
 ### 3. 📦 VirtualBox + Ubuntu Image
 For running virtual environments and simulating Linux-based DevOps tools.
@@ -30,7 +30,7 @@ For running virtual environments and simulating Linux-based DevOps tools.
 ### 4. 🐙 GitHub Account  
 You’ll need a GitHub account for version control, collaboration, and storing your code in repositories.
 
-![GitHub Logo](Github.png)  
+![GitHub Logo](GitHub.png)  
 
 🔗 [Create a GitHub Account](https://github.com/signup)
 
