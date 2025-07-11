@@ -181,6 +181,6 @@ This documentation is your launchpad. Explore each section, follow me as we buil
 
 📌 Stay tuned for real-world labs, projects, and community resources in the next chapters of the DevOps Journey!
 
-> 🔁 Star this repo and share your journey with the hashtag **#DevOpsJourney**
+> 🔁 Star this repo and share your journey with the hashtag **#DevOpsJourney**, **#DevOps-Made-Easy**
 
 >📌 Check Library for more document!!
