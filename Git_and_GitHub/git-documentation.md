@@ -44,7 +44,7 @@ By following along with official documentation, learners can trust the accuracy 
 | `git merge <branch>` | Merges a branch into the current one | Combine features into main |
 | `git log` | Shows commit history | Review project changes | Review what changes were made, when, and by whom |
 | `git stash` | Temporarily saves changes | Pause work without committing | Pause work, switch branches, and return later without losing progress |
-| `git merge` | To combine changes from different branch |
+| `git rebase` | Reapplies commits on top of another base tip | Clean up commit history before merging a feature branch |
 | ` git reset` | To undo the change in working directory | Remove a file from staging or rollback to a previous commit |
 | ` git remote` | Manages remote repository URLs | Add or inspect GitHub repo linked to local project |
 | `git ls-files` | To show files that is being tracked by git | See what Git is currently managing in your repo |
