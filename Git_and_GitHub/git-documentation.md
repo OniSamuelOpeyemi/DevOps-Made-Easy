@@ -42,27 +42,30 @@ By following along with official documentation, learners can trust the accuracy 
 | `git branch` | Lists or creates branches | Manage features or experiments |
 | `git checkout -b <branch>` | Creates and switches to a new branch | Start working on a new feature |
 | `git merge <branch>` | Merges a branch into the current one | Combine features into main |
-| `git log` | Shows commit history | Review project changes |
-| `git stash` | Temporarily saves changes | Pause work without committing |
+| `git log` | Shows commit history | Review project changes | Review what changes were made, when, and by whom |
+| `git stash` | Temporarily saves changes | Pause work without committing | Pause work, switch branches, and return later without losing progress |
 | `git merge` | To combine changes from different branch |
-| ` git reset` | To undo the change in working directory |
-| ` git remote` | an interface for managing a list of remote entries that are stored in the repository|
-| `git ls-files` | To show files that is being tracked by git |
-| `git alias` | To create git shortcut |
-|`git --help` | To open a manual page for git commands |
-| `git tag` | To add special marker to commits |
+| ` git reset` | To undo the change in working directory | Remove a file from staging or rollback to a previous commit |
+| ` git remote` | Manages remote repository URLs | Add or inspect GitHub repo linked to local project |
+| `git ls-files` | To show files that is being tracked by git | See what Git is currently managing in your repo |
+| `git alias` | To create git shortcut | Use git co instead of git checkout to save typing |
+|`git --help` | To open a manual page for git commands | Command usage info, e.g., git commit --help |
+| `git tag` | To add special marker to commits | Tag a release like v1.0.0 before deploying |
 
 > Some linux command use in git 
-| `cp`| To copy from local directory |
-| `mv` | To move files and rename files |
-| `mkdir` | To create a directory |
-| `pwd` | To print working directory |
-| `rm` | To delete file  |
-| `cat` | To displays the content of files and concatenates files together.|
-| `touch` | To create file |
-| `echo` | To print and output |
-| `clear` |To clear the working terminal |
-| `nano`  and `vim` | text editor |
+
+| Command | Description | Use Case |
+|--------|-------------|----------|
+| `cp`| Copy file and directory | Duplicate a config file into another folder before editing |
+| `mv` | To move files and rename files | Rename index.html to main.html |
+| `mkdir` | To create a directory | Make a folder called project-config for storing YAML files |
+| `pwd` | To print working directory | Confirm you are working in the right repo location |
+| `rm` | To delete file  | Remove an old log file no longer needed |
+| `cat` | To displays the content of files or/and concatenates files together | View contents of file.txt in the terminal |
+| `touch` | To create file | Initialize an empty README.md for a new repo |
+| `echo` | To print and output | Add text to a file: echo "# Project" > README.md |
+| `clear` |To clear the working terminal screen | Clean up clutter before running new commands |
+| `nano` , `vim` | Terminal-based text editors | Edit file directly in the terminal |
 ---
 
 ## 🧪 Git Quiz – Test Your Knowledge!
@@ -113,7 +116,7 @@ By following along with official documentation, learners can trust the accuracy 
 
 2. Clone DevOps-Made-Easy using `git clone ` :
    ```bash
-   git clone https://github.com/OniSamuelOpeyemi/DevOps-Made-Easy.git .
+   git clone https://github.com/OniSamuelOpeyemi/DevOps-Made-Easy.git 
    ```
 
 3. Create a feature branch and checkout into it:
