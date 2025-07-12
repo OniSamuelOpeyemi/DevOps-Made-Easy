@@ -76,6 +76,14 @@ By following along with official documentation, learners can trust the accuracy 
 4. How can you resolve a merge conflict?
 5. What does `git stash` allow you to do?
 
+---
+![Git Init](./init.png)
+
+![Git Status](./status.png)
+
+![Git commit](./commit.png)
+
+![GitHub](./GitHub.png)
 
 ---
 
@@ -104,7 +112,7 @@ By following along with official documentation, learners can trust the accuracy 
    git push -u origin master
    ```
 ---
-**Objective 2:** Set up a Git repository locally and push it to GitHub.
+**Objective 2:** Cloning a repo.
 
 ### ✅ Steps:
 1. Create a new folder and initialize Git:
