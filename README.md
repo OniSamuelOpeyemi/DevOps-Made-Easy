@@ -22,5 +22,7 @@ To begin, clone this repository and follow the instructions in each module to se
 
 Happy learning, and welcome to the world of DevOps!
 
-*to connect* :
-[linkedIn](www.linkedin.com/in/oni-samuel-6b1820267)
+### 📬 Contact
+[Email](mailto:onisamuelopeyemi@gmail.com)
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/oni-samuel-6b1820267/)
