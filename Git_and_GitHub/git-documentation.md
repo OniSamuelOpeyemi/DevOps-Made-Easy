@@ -85,6 +85,8 @@ By following along with official documentation, learners can trust the accuracy 
 
 ![GitHub](./GitHub.png)
 
+🌐 [Live GitHub Repository with index.html](https://github.com/OniSamuelOpeyemi/DevOps-Made-Easy/blob/darey/Git_and_GitHub/index.html)
+
 ---
 
 ## 👨‍🔬 Practical Lab: Hands-On Git Setup
