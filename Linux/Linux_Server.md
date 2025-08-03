@@ -8,24 +8,24 @@ This project demonstrates how to create a Linux-based EC2 instance on AWS, conne
 
 ## 🚀 Step-by-Step Guide
 
-![Mobaxterm](./ScreenShot/Mobaxterm.png)
+![Mobaxterm](/ScreenShot/Mobaxterm.png)
 
 ### ✅ Step 1: Launch an EC2 Instance
 
 1. **Login to AWS Console**: [https://aws.amazon.com](https://aws.amazon.com)
 
-![Acount](./ScreenShot/AWS-create.png)
+![Acount](/ScreenShot/AWS-create.png)
 
-![Signin](./ScreenShot/AWS-Signin.png)
+![Signin](/ScreenShot/AWS-Signin.png)
 
 2. **Navigate to EC2 Service**: Select **EC2** from the services list.
 3. **Launch Instance**:
 
-![Create instance](./ScreenShot/EC2.png)
+![Create instance](/ScreenShot/EC2.png)
 
    - Click **Launch Instance**
 
-![Instance](./ScreenShot/Instance.png)
+![Instance](/ScreenShot/Instance.png)
 
    - Name your instance (e.g., `Linux-Server`)
    - Choose **Amazon Linux 2023 AMI** or **Ubuntu Server 20.04 LTS**
@@ -34,7 +34,7 @@ This project demonstrates how to create a Linux-based EC2 instance on AWS, conne
    - Configure security group to allow **SSH (port 22)** and **HTTP (port 80)**
    - Click **Launch Instance**
 
-![Lunch Instance](./ScreenShot/Create-Instance.png)
+![Lunch Instance](/ScreenShot/Create-Instance.png)
 
 
 
@@ -51,33 +51,35 @@ ssh -i "your-key.pem" ubuntu@<your-public-ip>
 
 ```
 
-![Key pair](./ScreenShot/key.png)
+![Key pair](/ScreenShot/key.png)
 
-![Connect to Instance](./ScreenShot/connect.png)
+![Connect to Instance](/ScreenShot/connect.png)
 
 ---
 ## Package management
 
 ### Upadate the server 
 
-![Update](./ScreenShot/update.png)
+![Update](/ScreenShot/update.png)
  
 ### Installed tree
 
-![tree](./ScreenShot/tree.png)
+![tree](/ScreenShot/tree.png)
 
 ### Upgrade the server
 
-![upgrade](./ScreenShot/upgrade.png)
+![upgrade](/ScreenShot/upgrade.png)
 
 ### Test tree 
 
-![Tree](./ScreenShot/tree2.png)
+![Tree](/ScreenShot/tree2.png)
 
 ### Delete tree 
 
-![Delete tree](./ScreenShot/rm.png)
+![Delete tree](/ScreenShot/rm.png)
 
 ### Installed nginx
 
-![Nginx](./ScreenShot/nginx.png)
+![Nginx](/ScreenShot/nginx.png)
+
+
