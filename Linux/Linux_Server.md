@@ -8,24 +8,24 @@ This project demonstrates how to create a Linux-based EC2 instance on AWS, conne
 
 ## 🚀 Step-by-Step Guide
 
-![Mobaxterm](Mobaxterm.png)
+![Mobaxterm](./ScreenShot/Mobaxterm.png)
 
 ### ✅ Step 1: Launch an EC2 Instance
 
 1. **Login to AWS Console**: [https://aws.amazon.com](https://aws.amazon.com)
 
-![Acount](AWS-create.png)
+![Acount](./ScreenShot/AWS-create.png)
 
-![Signin](AWS-Signin.png)
+![Signin](./ScreenShot/AWS-Signin.png)
 
 2. **Navigate to EC2 Service**: Select **EC2** from the services list.
 3. **Launch Instance**:
 
-![Create instance](EC2.png)
+![Create instance](./ScreenShot/EC2.png)
 
    - Click **Launch Instance**
 
-![Instance](Instance.png)
+![Instance](./ScreenShot/Instance.png)
 
    - Name your instance (e.g., `Linux-Server`)
    - Choose **Amazon Linux 2023 AMI** or **Ubuntu Server 20.04 LTS**
@@ -34,7 +34,7 @@ This project demonstrates how to create a Linux-based EC2 instance on AWS, conne
    - Configure security group to allow **SSH (port 22)** and **HTTP (port 80)**
    - Click **Launch Instance**
 
-![Lunch Instance](Create-Instance.png)
+![Lunch Instance](./ScreenShot/Create-Instance.png)
 
 
 
@@ -51,33 +51,33 @@ ssh -i "your-key.pem" ubuntu@<your-public-ip>
 
 ```
 
-![Key pair](key.png)
+![Key pair](./ScreenShot/key.png)
 
-![Connect to Instance](connect.png)
+![Connect to Instance](./ScreenShot/connect.png)
 
 ---
 ## Package management
 
 ### Upadate the server 
 
-![Update](update.png)
+![Update](./ScreenShot/update.png)
  
 ### Installed tree
 
-![tree](tree.png)
+![tree](./ScreenShot/tree.png)
 
 ### Upgrade the server
 
-![upgrade](upgrade.png)
+![upgrade](./ScreenShot/upgrade.png)
 
 ### Test tree 
 
-![Tree](tree2.png)
+![Tree](./ScreenShot/tree2.png)
 
 ### Delete tree 
 
-![Delete tree](rm.png)
+![Delete tree](./ScreenShot/rm.png)
 
 ### Installed nginx
 
-![Nginx](nginx.png)
+![Nginx](./ScreenShot/nginx.png)
