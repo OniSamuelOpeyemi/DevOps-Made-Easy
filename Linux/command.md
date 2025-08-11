@@ -229,3 +229,59 @@ cat filename.txt
 | `rm`    | Remove files or directories      |
 | `find`  | Search for files/directories     |
 | `cat`   | Concatenate the output           |
+
+--- 
+
+# File permission and account management
+
+
+##  touch
+```bash 
+ touch script.sh
+```
+![touch](../ScreenShot/script.png)
+
+
+##  chmod
+```bash 
+ chmod +x script.sh
+```
+![chmod](../ScreenShot/chmod.png)
+
+
+##  adduser
+```bash 
+ sudo adduser johndoe
+```
+![adduser](../ScreenShot/adduser.png)
+
+
+##  switch user
+```bash 
+ su johndoe
+ sudo cd/home/johndoe
+ ls -latr
+```
+![suser](../ScreenShot/suser.png)
+
+
+##  Add or change user password
+```bash 
+ sudo passwd johndoe
+```
+![passwd](../ScreenShot/passwd.png)
+
+
+##  add group
+```bash 
+ sudo groupadd developers
+ sudo usermod -aG developers johndoe
+ id johndoe
+ sudo groupadd devops
+ less /etc/group | grep devops
+```
+![group](../ScreenShot/groupadd.png)
+
+![group](../ScreenShot/groupadd2.png)
+
+---
