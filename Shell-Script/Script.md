@@ -46,7 +46,7 @@ cat my_first_shell_script.sh
 ```
 ![script](../ScreenShot/scode.png)
 
-![Show](../ScreenShot/Script.png)
+![Show](../ScreenShot/Sscript.png)
 
 
 ```bash 
@@ -59,7 +59,7 @@ id user1
 id user2
 id user3
 ```
-![script](../ScreenShot/task2.png)
+![script](../ScreenShot/task2`.png)
 
 ---
 
